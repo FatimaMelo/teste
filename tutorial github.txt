@@ -1,0 +1,32 @@
+criar pasta e colocar os arquivos
+
+clicar BDM gitbash here (vai ficar na pasta)
+
+apontar para o git hub desejado
+
+git config --global user.name "FatimaMelo"
+
+git config --global user.email "fatimabsmelo@gmail.com"
+
+depois de configurado
+
+git init
+
+git status - verifica se configurou
+
+
+git add .
+
+git commit -m "trabalhos 1"
+
+git remote add origin endereco do repositorio github
+
+git push origin master
+
+
+
+
+git pull origin master --allow-unrelated-histories
+
+quando tiver mais arquivos - pode dar git status para ver se tem arquivo sem subir
+
